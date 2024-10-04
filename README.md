@@ -105,7 +105,7 @@ pip install pdfplumber modelscope langchain langchain-community sentence_transfo
 
 硬件方面，最好有一张 **3G** 显存的 GPU 显卡来部署向量模型，用 CPU 应该会较慢。
 
-这个方案（最简易版本）的 A 榜得分：（尚未出分）
+这个方案（最简易版本）的 A 榜得分，还有很大提升空间 🧐：
 
 <center><img src="./assets/A_score.png" width=90%></center>
 
