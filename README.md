@@ -92,7 +92,7 @@ conda activate rag
 
 conda install jupyter notebook pandas
 
-pip install pdfplumber modelscope langchain langchain-community sentence_transformer faiss-cpu -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install pdfplumber modelscope langchain langchain-community sentence_transformers faiss-cpu -i https://pypi.tuna.tsinghua.edu.cn/simple
 ```
 
 💻 硬件方面，最好有一张 **3G** 显存的 GPU 显卡来部署向量模型，用 CPU 应该会较慢。
